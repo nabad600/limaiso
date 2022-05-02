@@ -1,0 +1,8 @@
+/iso/
+# lima config files
+/ci.yaml
+/rd.yaml
+/std.yaml
+/nerdctl-*
+/qemu-*
+/cri-dockerd-*
